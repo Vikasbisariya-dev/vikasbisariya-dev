@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikasbisariya-dev&label=Profile%20views&color=0e75b6&style=flat" alt="vikasbisariya-dev" /> </p>
 
-- 🌱 I’m currently learning **React js,Node js.**
+- 🌱 I’m currently learning **backend development.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Vikasbisariya-dev?tab=repositories](https://github.com/Vikasbisariya-dev?tab=repositories)
 
