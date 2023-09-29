@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **vikasbisariya20@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1nwDCX-obQyx24bKXHDbHDiDcH79egaVY/view?usp=sharing](https://drive.google.com/file/d/1nwDCX-obQyx24bKXHDbHDiDcH79egaVY/view?usp=sharing)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1XBDaUamN-I7ty8UO7F_y-nLd4zB2NZFA2DrBbTNSMFQ/edit?usp=sharing](https://docs.google.com/document/d/1XBDaUamN-I7ty8UO7F_y-nLd4zB2NZFA2DrBbTNSMFQ/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
